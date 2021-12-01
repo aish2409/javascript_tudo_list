@@ -1,0 +1,23 @@
+.addbtn{
+        float:left;
+        margin-top:-73px;
+        margin-left:60%;
+        width:90px;
+        height:58px;
+    }
+ul li::before{
+  background-color:yellow;
+  width:90px;
+  height:58px;
+}
+/*.addtable{
+  margin-left:20%;
+  margin-right:-20%;
+}
+*//*
+body{
+  background-image: url("https://cdn.mwallpapers.com/photos/celebrities/nature/4k-nature-wallpaper-dog-image-android-iphone-hd-wallpaper-background-downloadhd-wallpapers-desktop-background-android-iphone-1080p-4k-10atb.jpg");
+  background-size:100%;
+  background-repeat: no-repeat;
+
+}*/
